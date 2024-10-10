@@ -1,0 +1,10 @@
+#background {
+    position: absolute; /* Ensure the image is positioned correctly */
+    left: -20px; /* Adjust as needed */
+    top: 0;
+    width: 100vw; /* Full viewport width */
+    height: 100vh; /* Full viewport height */
+    object-fit: cover; /* Cover the area, maintaining aspect ratio */
+    z-index: -1; /* Send it behind other content */
+}
+    
